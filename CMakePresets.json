@@ -3,6 +3,7 @@
   "configurePresets": [
     {
       "name": "default",
+      "binaryDir": "${sourceDir}/build",
       "toolchainFile": "${sourceDir}/vcpkg/scripts/buildsystems/vcpkg.cmake"
     }
   ]
